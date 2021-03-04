@@ -18,3 +18,6 @@ function summation(num) {
     }  
   return total;
   }
+
+
+summation(8)  
